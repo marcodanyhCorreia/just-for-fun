@@ -16,11 +16,11 @@ body {
 }
 
 .mainBody header {
-  background: #0eb839;
+  background: #eb0839;
 }
 
 .mainBody .sidebar {
-  background: #57d830;
+  background: #d83570;
   height: auto;
   flex: 0 0 200px;
 }
